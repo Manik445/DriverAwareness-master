@@ -1,0 +1,3 @@
+python -p C:\Users\manik\Desktop\Technothon\DriverAwareness-master\data\models\shape_predictor_68_face_landmarks.dat  C:\Users\manik\Desktop\Technothon\DriverAwareness-master\DrivingCoach.py -i C:\Users\manik\Desktop\Technothon\DriverAwareness-master\doc\distracted.jpg
+for web cam use -w 0 (0 is index)
+format == path / module / functionn(argument)
