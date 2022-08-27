@@ -32,21 +32,6 @@ We get the best for everyone by help of the Companies that care about social res
 design a system that provides real benefits for their customers.
 Such a system is however more complex and costly to develop and implement. An open source solution might be helpful to reduce cost if its flexible enough to be adapted to specific requirements.
 
-**So the main question is: How can we develop an affordable and flexible solution that provides benefits for all**
-
-|Consumer|Business case|
-|----------|-----------|
-|* Promote safe driving habits|* Car lease (safety as a service, reduce car accidents)
-| * Improve safe driving behaviour|* Insurance (reduce car accidents)
-| * Help to prevent car accidents|* Road service organizations (safety for its members)
-| * Make Driver Monitoring systems available for low cost|* Driving school (better feedback, better results)
-| * Lower costs for society|
-| * While keeping privacy|
-
-A good starting point to introduce this system would be driving schools.
-They could use these devices in their daily practice and lend them to their customers when they practice under parental supervision. 
-By lending them to young drivers on training, consumers will getting used to these devices and this will lead to general acceptance.
-
 # How to develop and implement
 
 ## How the system works
