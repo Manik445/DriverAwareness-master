@@ -27,11 +27,6 @@ Approach:
 * Broadcast the idea, get organisations involved
 * Deliver a device that can do the job and is afforable for everyone
 
-## The business case
-We get the best for everyone by help of the Companies that care about social responsibility to their customers should consider all previous arguments and 
-design a system that provides real benefits for their customers.
-Such a system is however more complex and costly to develop and implement. An open source solution might be helpful to reduce cost if its flexible enough to be adapted to specific requirements.
-
 # How to develop and implement
 
 ## How the system works
