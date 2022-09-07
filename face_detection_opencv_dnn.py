@@ -64,10 +64,6 @@ if __name__ == "__main__":
     source = args.video
     device = args.device
 
-    # OpenCV DNN supports 2 networks.
-    # 1. FP16 version of the original Caffe implementation ( 5.4 MB )
-    # 2. 8 bit Quantized version using TensorFlow
-
     print(framework)
 
     if framework == "caffe":
@@ -94,7 +90,6 @@ if __name__ == "__main__":
         outputFile = os.path.basename(source)[:-4] + ".avi"
     else:
         cap = cv2.VideoCapture(700)
-        #cap = cv2.VideoCapture(700, cv2.CAP_V4L)
         outputFile = "grabbed_from_camera.avi"
 
     hasFrame, frame = cap.read()
