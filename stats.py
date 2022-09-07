@@ -14,4 +14,3 @@ txt_df = pd.read_csv('data/26122013_223310_cam.txt', delimiter=' ', index_col=0,
 df = pd.merge(txt_df, tag_df, how='inner',on='frameID')
 
 print(df.head(20))
-#print(df[df.blinkID!=-1].head(20))
